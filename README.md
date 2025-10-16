@@ -106,4 +106,3 @@ This project demonstrates the integration of deep learning and computer vision f
 
 ---
 
-Would you like me to also create a `requirements.txt` file listing all the necessary Python libraries for this project (so it installs easily on any computer)?
